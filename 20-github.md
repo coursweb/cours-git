@@ -19,7 +19,7 @@ Il est aussi possible d'installer Git sur votre serveur, comme le fait par exemp
 
 ## Guide d'utilisation GitHub:
 
-![](/cours-git/img/what-is-git-hub-meme.jpeg)
+![](img/what-is-git-hub-meme.jpeg)
 
 (Documentation à compléter)
 

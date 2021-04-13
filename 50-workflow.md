@@ -4,7 +4,7 @@ title: Workflow
 permalink: /git/workflow/
 ---
 
-![](/cours-git/img/shower-github.png)
+![](img/shower-github.png)
 
 Un workflow Git
 ===
@@ -19,7 +19,7 @@ Une méthodologie Git pour projets de design, proposée par [Mathieu Dutour](htt
 * Faites une "pull request" de votre branche vers la branche principale ("master").
 * Voilà! Vos collaborateurs peuvent voir vos modifications, faire des commentaires, et les approuver. Une fois approuvés, faire un "merge" de votre "pull request".
 
-![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](/cours-git/img/fire-git-commit-push.jpg){:id: .large-image}
+![Instructions en cas d'incendie, trouvées dans un laboratoire du CERN (via Cassandre Poirier-Simon)](img/fire-git-commit-push.jpg){:id: .large-image}
 
 ### Mettre à jour une branche
 
@@ -72,4 +72,4 @@ Quelques autres articles sur l'utilisation de Git:
 
 - [Bien utiliser Git merge et rebase](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/) - par Christophe Porteneuve (git-attitude), 2014
 
-![](/cours-git/img/git-merge-69262734.png)
+![](img/git-merge-69262734.png)
